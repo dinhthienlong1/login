@@ -20,7 +20,7 @@ session_start();
         echo "<br/><a href='dang_xuat.php'>dang xuat</a>";
     } else {
     ?>
-        <a href="dang_nhap.php">dang nhap</a>
+        <a href="dang_nhap.php">ĐĂNG NHẬP</a>
     <?php
     }
     ?>
